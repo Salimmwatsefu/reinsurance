@@ -1,0 +1,16 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-JWT-Extended
+pdfplumber
+easyocr
+spacy
+xgboost
+scikit-learn
+joblib
+psycopg2-binary
+bcrypt
+gunicorn
+alembic
+pdf2image
+pandas
