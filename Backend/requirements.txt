@@ -1,0 +1,16 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-CORS
+pdfplumber
+easyocr
+spacy
+xgboost
+scikit-learn
+joblib
+bcrypt
+gunicorn
+alembic
+pdf2image
+pandas
+python-dotenv
